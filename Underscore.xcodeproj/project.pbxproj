@@ -29,11 +29,11 @@
 		54A3DCDD154DD4BF00387DE3 /* libUnderscore.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 54A3DCC5154DD4BF00387DE3 /* libUnderscore.a */; };
 		54A3DCE3154DD4BF00387DE3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 54A3DCE1154DD4BF00387DE3 /* InfoPlist.strings */; };
 		6775CC96B4B74AF283884A0A /* libPods-UnderscoreTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 44D4915E525F41A183CA3B1D /* libPods-UnderscoreTests.a */; };
-		86D3085D1BA8001A0052EFE7 /* Underscore+Times.h in Headers */ = {isa = PBXBuildFile; fileRef = 437EE9781AC9423D00BBB61A /* Underscore+Times.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		86D3085D1BA8001A0052EFE7 /* Underscore+Times.h in Headers */ = {isa = PBXBuildFile; fileRef = 437EE9781AC9423D00BBB61A /* Underscore+Times.h */; };
 		86D3085E1BA8001A0052EFE7 /* Underscore+Times.m in Sources */ = {isa = PBXBuildFile; fileRef = 437EE9791AC9423D00BBB61A /* Underscore+Times.m */; settings = {ASSET_TAGS = (); }; };
-		86D3085F1BA8001A0052EFE7 /* Underscore+Strings.h in Headers */ = {isa = PBXBuildFile; fileRef = BCFADFEF1837E77000A81EB5 /* Underscore+Strings.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		86D3085F1BA8001A0052EFE7 /* Underscore+Strings.h in Headers */ = {isa = PBXBuildFile; fileRef = BCFADFEF1837E77000A81EB5 /* Underscore+Strings.h */; };
 		86D308601BA8001A0052EFE7 /* Underscore+Strings.m in Sources */ = {isa = PBXBuildFile; fileRef = BCFADFF01837E77000A81EB5 /* Underscore+Strings.m */; settings = {ASSET_TAGS = (); }; };
-		86D308611BA8001A0052EFE7 /* USStringWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = BCFADFF11837E77000A81EB5 /* USStringWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		86D308611BA8001A0052EFE7 /* USStringWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = BCFADFF11837E77000A81EB5 /* USStringWrapper.h */; };
 		86D308621BA8001A0052EFE7 /* USStringWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = BCFADFF21837E77000A81EB5 /* USStringWrapper.m */; settings = {ASSET_TAGS = (); }; };
 		86D308631BA8001A0052EFE7 /* Underscore.h in Headers */ = {isa = PBXBuildFile; fileRef = 54A3DCCD154DD4BF00387DE3 /* Underscore.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		86D308641BA8001A0052EFE7 /* Underscore.m in Sources */ = {isa = PBXBuildFile; fileRef = 541D18A515616E2400599033 /* Underscore.m */; settings = {ASSET_TAGS = (); }; };

@@ -15,8 +15,3 @@ FOUNDATION_EXPORT double Underscore_mVersionNumber;
 FOUNDATION_EXPORT const unsigned char Underscore_mVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Underscore_m/PublicHeader.h>
-
-#import <Underscore_m/Underscore.h>
-#import <Underscore_m/Underscore+Strings.h>
-#import <Underscore_m/Underscore+Times.h>
-#import <Underscore_m/USStringWrapper.h>
