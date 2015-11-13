@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "86583CDA1BF59CFE006D1C52"
-               BuildableName = "Underscore_m tvOS.framework"
+               BuildableName = "Underscore_m.framework"
                BlueprintName = "Underscore_m tvOS"
                ReferencedContainer = "container:Underscore.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "86583CDA1BF59CFE006D1C52"
-            BuildableName = "Underscore_m tvOS.framework"
+            BuildableName = "Underscore_m.framework"
             BlueprintName = "Underscore_m tvOS"
             ReferencedContainer = "container:Underscore.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "86583CDA1BF59CFE006D1C52"
-            BuildableName = "Underscore_m tvOS.framework"
+            BuildableName = "Underscore_m.framework"
             BlueprintName = "Underscore_m tvOS"
             ReferencedContainer = "container:Underscore.xcodeproj">
          </BuildableReference>

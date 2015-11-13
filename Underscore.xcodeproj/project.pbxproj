@@ -99,7 +99,7 @@
 		54A3DCE0154DD4BF00387DE3 /* UnderscoreTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "UnderscoreTests-Info.plist"; sourceTree = "<group>"; };
 		54A3DCE2154DD4BF00387DE3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		54DDBDDF1837AAEB002EAEB3 /* UnderscoreTests-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UnderscoreTests-Prefix.pch"; sourceTree = "<group>"; };
-		86583CDB1BF59CFE006D1C52 /* Underscore_m.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Underscore_m.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		86583CDB1BF59CFE006D1C52 /* Underscore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Underscore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		86583CDF1BF59CFE006D1C52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		86D308551BA7FFA70052EFE7 /* Underscore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Underscore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		86D308571BA7FFA70052EFE7 /* Underscore_m.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Underscore_m.h; sourceTree = "<group>"; };
@@ -185,7 +185,7 @@
 				54A3DCC5154DD4BF00387DE3 /* libUnderscore.a */,
 				54A3DCD5154DD4BF00387DE3 /* UnderscoreTests.octest */,
 				86D308551BA7FFA70052EFE7 /* Underscore.framework */,
-				86583CDB1BF59CFE006D1C52 /* Underscore_m.framework */,
+				86583CDB1BF59CFE006D1C52 /* Underscore.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -394,7 +394,7 @@
 			);
 			name = "Underscore_m tvOS";
 			productName = "Underscore_m tvOS";
-			productReference = 86583CDB1BF59CFE006D1C52 /* Underscore_m.framework */;
+			productReference = 86583CDB1BF59CFE006D1C52 /* Underscore.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		86D308541BA7FFA70052EFE7 /* Underscore_m */ = {
@@ -730,7 +730,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "iphone.thescore.com.Underscore-m-tvOS";
-				PRODUCT_NAME = Underscore_m;
+				PRODUCT_NAME = Underscore;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -771,7 +771,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "iphone.thescore.com.Underscore-m-tvOS";
-				PRODUCT_NAME = Underscore_m;
+				PRODUCT_NAME = Underscore;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -902,6 +902,7 @@
 				86583CE11BF59CFE006D1C52 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		86D3085C1BA7FFA70052EFE7 /* Build configuration list for PBXNativeTarget "Underscore_m" */ = {
 			isa = XCConfigurationList;
