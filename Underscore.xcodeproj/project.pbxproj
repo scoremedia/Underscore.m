@@ -37,6 +37,13 @@
 		86583CE81BF59D64006D1C52 /* USArrayWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 54903D11155FF779006854CB /* USArrayWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		86583CE91BF59D64006D1C52 /* USDictionaryWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 54996B2115614B220016BE94 /* USDictionaryWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		86583CEA1BF59D64006D1C52 /* USConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 54996B2C15614F900016BE94 /* USConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		86583D001BF5B023006D1C52 /* Underscore+Times.m in Sources */ = {isa = PBXBuildFile; fileRef = 437EE9791AC9423D00BBB61A /* Underscore+Times.m */; };
+		86583D011BF5B023006D1C52 /* Underscore+Strings.m in Sources */ = {isa = PBXBuildFile; fileRef = BCFADFF01837E77000A81EB5 /* Underscore+Strings.m */; };
+		86583D021BF5B023006D1C52 /* USStringWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = BCFADFF21837E77000A81EB5 /* USStringWrapper.m */; };
+		86583D031BF5B023006D1C52 /* Underscore.m in Sources */ = {isa = PBXBuildFile; fileRef = 541D18A515616E2400599033 /* Underscore.m */; };
+		86583D041BF5B023006D1C52 /* Underscore+Functional.m in Sources */ = {isa = PBXBuildFile; fileRef = 547C44DA15B30ADD004698B8 /* Underscore+Functional.m */; };
+		86583D051BF5B023006D1C52 /* USArrayWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 54903D12155FF779006854CB /* USArrayWrapper.m */; };
+		86583D061BF5B023006D1C52 /* USDictionaryWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 54996B2215614B220016BE94 /* USDictionaryWrapper.m */; };
 		86D3085D1BA8001A0052EFE7 /* Underscore+Times.h in Headers */ = {isa = PBXBuildFile; fileRef = 437EE9781AC9423D00BBB61A /* Underscore+Times.h */; };
 		86D3085E1BA8001A0052EFE7 /* Underscore+Times.m in Sources */ = {isa = PBXBuildFile; fileRef = 437EE9791AC9423D00BBB61A /* Underscore+Times.m */; };
 		86D3085F1BA8001A0052EFE7 /* Underscore+Strings.h in Headers */ = {isa = PBXBuildFile; fileRef = BCFADFEF1837E77000A81EB5 /* Underscore+Strings.h */; };
@@ -554,6 +561,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86583D021BF5B023006D1C52 /* USStringWrapper.m in Sources */,
+				86583D031BF5B023006D1C52 /* Underscore.m in Sources */,
+				86583D061BF5B023006D1C52 /* USDictionaryWrapper.m in Sources */,
+				86583D011BF5B023006D1C52 /* Underscore+Strings.m in Sources */,
+				86583D051BF5B023006D1C52 /* USArrayWrapper.m in Sources */,
+				86583D041BF5B023006D1C52 /* Underscore+Functional.m in Sources */,
+				86583D001BF5B023006D1C52 /* Underscore+Times.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
