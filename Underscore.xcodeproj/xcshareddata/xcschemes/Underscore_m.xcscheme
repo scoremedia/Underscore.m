@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "86D308541BA7FFA70052EFE7"
                BuildableName = "Underscore.framework"
-               BlueprintName = "Underscore_m"
+               BlueprintName = "Underscore_m watchOS"
                ReferencedContainer = "container:Underscore.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,7 +47,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "86D308541BA7FFA70052EFE7"
             BuildableName = "Underscore.framework"
-            BlueprintName = "Underscore_m"
+            BlueprintName = "Underscore_m watchOS"
             ReferencedContainer = "container:Underscore.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -65,7 +65,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "86D308541BA7FFA70052EFE7"
             BuildableName = "Underscore.framework"
-            BlueprintName = "Underscore_m"
+            BlueprintName = "Underscore_m watchOS"
             ReferencedContainer = "container:Underscore.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
